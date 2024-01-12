@@ -1,5 +1,5 @@
 # Bingo
-
+具体复现流程请参照论文复现的pdf，下面是论文源码的仓库介绍和地址
 This repository contains the source code accompanying the following paper:
 ```
 @inproceedings{Bingo,
