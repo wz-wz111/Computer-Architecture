@@ -1,5 +1,6 @@
 # Bingo
-具体复现流程请参照论文复现的pdf，下面是论文源码的仓库介绍和地址
+具体复现流程请参照论文复现的pdf（注意data文件夹并未真正存放数据），下面是论文的总体介绍和源码仓库地址
+
 This repository contains the source code accompanying the following paper:
 ```
 @inproceedings{Bingo,
